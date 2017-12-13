@@ -1,5 +1,12 @@
 ---
-title: two blocks
-date: '2017-12-14 12:01am'
+title: home
+description: some description
+blocks:
+  - content: |-
+      # It works?
+
+      Type a block
+    image: /static/uploads/d.jpg
+    type: a
 ---
-yes
+
