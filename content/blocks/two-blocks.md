@@ -8,5 +8,7 @@ blocks:
       Type a block
     image: /static/uploads/d.jpg
     type: a
+  - content: Very streamlined
+    type: b
 ---
 
