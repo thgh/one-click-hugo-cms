@@ -6,7 +6,7 @@ blocks:
       # It works?
 
       Type a block
-    image: /static/uploads/d.jpg
+    image: /static/uploads/9.jpg
     type: a
   - content: Very streamlined
     type: b
